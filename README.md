@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer** focused on **GenAI (LLMs · RAG · agents)** and **Medical AI**.
 PhD researcher in explainable medical AI · author/co-author of 14+ peer-reviewed publications.
-I build ML systems end-to-end — from model development to Dockerized production services.
+I build ML systems end-to-end from model development to Dockerized production services.
 
 - 🔭 **Currently:** LLM / RAG and agentic systems (LangGraph, LangChain) + medical imaging deep learning
 - 🧠 **Focus:** applied deep learning, retrieval-augmented generation, explainable AI (SHAP / LIME / Grad-CAM), MLOps
