@@ -36,11 +36,14 @@ Machine Learning Engineer with **6+ years** building and shipping ML systems end
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[Medical RAG Chatbot](https://github.com/AnnaFeleki/Medical-RAG-Chatbot)** | Retrieval-augmented LLM assistant that answers over medical documents | `LLM` `RAG` `LangChain` `Vector DB` |
-| **[LangGraph Report-Extraction Agent](https://github.com/AnnaFeleki/langgraph-report-extraction-agent)** | Agentic workflow that extracts structured data from unstructured reports | `LangGraph` `Tool-calling` |
+| **[Multi-Agent Research Assistant](https://github.com/AnnaFeleki/Multi-Agent-Research-Assistant)** | LangGraph multi-agent system that plans, web-researches with citations, writes & self-reviews a report | `LangGraph` `RAG` `Streamlit` |
+| **[MLOps Breast Cancer](https://github.com/AnnaFeleki/MLOps-Breast-Cancer)** | End-to-end MLOps: training → MLflow registry → FastAPI → Docker → CI/CD → Evidently monitoring | `MLflow` `FastAPI` `Docker` |
+| **[Time-Series Demand Forecasting](https://github.com/AnnaFeleki/Timeseries-Demand-Forecasting)** | Baselines vs Holt-Winters vs gradient boosting, judged by honest rolling-origin backtesting | `pandas` `statsmodels` `scikit-learn` |
+| **[Medical RAG Chatbot](https://github.com/AnnaFeleki/Medical-RAG-Chatbot)** | Retrieval-augmented LLM assistant that answers over medical documents | `LLM` `RAG` `LangChain` |
 | **[Clinical Text-to-SQL](https://github.com/AnnaFeleki/Clinical-text-to-SQL)** | Turns natural-language questions into SQL over clinical data | `LLM` `SQL` |
-| **[Breast Cancer Diagnosis Web App](https://github.com/AnnaFeleki/Diagnosis-Breast-Cancer)** | End-to-end diagnostic tool with ROC-AUC & interpretability views | `scikit-learn` `Streamlit` |
-| **[FCM-PSO Learning](https://github.com/AnnaFeleki/FCM-PSO-learning)** | Fuzzy Cognitive Map learning driven by Particle Swarm Optimization | `Python` `Optimization` |
+| **[LangGraph Report-Extraction Agent](https://github.com/AnnaFeleki/langgraph-report-extraction-agent)** | Agentic workflow that extracts structured data from unstructured reports | `LangGraph` `Tool-calling` |
+
+> 🔗 **Live demo:** _add your Streamlit Community Cloud link for the Research Assistant here once deployed — a clickable demo is worth more than any bullet point._
 
 ---
 
@@ -91,6 +94,13 @@ Machine Learning Engineer with **6+ years** building and shipping ML systems end
 
 📖 Full publication list on **[Google Scholar](ADD-YOUR-SCHOLAR-LINK-HERE)** · [ORCID](https://orcid.org/0000-0002-8572-2269)
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnnaFeleki&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaFeleki&layout=compact&hide_border=true&langs_count=8" alt="Top languages">
+</p>
 
 <p align="center"><i>Building trustworthy AI for healthcare — from research paper to production endpoint.</i></p>
