@@ -16,7 +16,6 @@
   <a href="https://orcid.org/0000-0002-8572-2269"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="mailto:felekiann@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar">
-  <img src="https://img.shields.io/badge/📍%20Arta,%20Greece%20·%20Remote%20EU%2FUK-2b3137?style=flat" alt="Location">
 </p>
 
 ---
@@ -43,7 +42,6 @@ Machine Learning Engineer with **6+ years** building and shipping ML systems end
 | **[Clinical Text-to-SQL](https://github.com/AnnaFeleki/Clinical-text-to-SQL)** | Turns natural-language questions into SQL over clinical data | `LLM` `SQL` |
 | **[LangGraph Report-Extraction Agent](https://github.com/AnnaFeleki/langgraph-report-extraction-agent)** | Agentic workflow that extracts structured data from unstructured reports | `LangGraph` `Tool-calling` |
 
-> 🔗 **Live demo:** _add your Streamlit Community Cloud link for the Research Assistant here once deployed — a clickable demo is worth more than any bullet point._
 
 ---
 
