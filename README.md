@@ -91,13 +91,6 @@ Machine Learning Engineer with **6+ years** building and shipping ML systems end
 
 📖 Full publication list on **[Google Scholar](ADD-YOUR-SCHOLAR-LINK-HERE)** · [ORCID](https://orcid.org/0000-0002-8572-2269)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnnaFeleki&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaFeleki&layout=compact&hide_border=true&langs_count=8" alt="Top languages">
-</p>
 
 <p align="center"><i>Building trustworthy AI for healthcare — from research paper to production endpoint.</i></p>
